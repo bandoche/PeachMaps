@@ -29,7 +29,7 @@
      */
     var calloutDelegate, current_annotation, current_overlays, map, pending_update, route_destination, route_origin, router, search_engine, selected_transport;
     mapkit.init({
-      apiKey: 'b2af5300a3c2ea9b5d38c782c7d2909dc88d6621',
+      apiKey: '90e3d7b0f69e62d49a3aefc3a7341cc018a54ffe',
       bootstrapUrl: './bootstrap.json'
     });
     map = new mapkit.Map('map');
